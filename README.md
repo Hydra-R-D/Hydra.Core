@@ -1,0 +1,2 @@
+# Hydra.Core
+Framework package
